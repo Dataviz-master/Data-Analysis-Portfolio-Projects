@@ -81,5 +81,4 @@ The project covers:
 - **Customer report view** combining multiple metrics per customer  
 
 
-## Folder Structure
 
