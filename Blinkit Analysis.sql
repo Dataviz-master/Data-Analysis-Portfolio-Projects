@@ -16,7 +16,7 @@ SET Item_Fat_Content =
 
 	SELECT DISTINCT Item_Fat_Content FROM blinkit_data;
 
---A. KPI’s
+--A. KPIâ€™s
 
 --1. TOTAL SALES:
 
