@@ -4,7 +4,6 @@
 This project is an **Excel-based Bike Sales Dashboard** designed to analyze customer behavior and purchasing patterns.  
 The dashboard provides clear insights into **income, gender, age group, commute distance, marital status, education, and region**, helping stakeholders understand factors influencing bike purchases.
 
-The final dashboard is exported as a **single-page PDF**, optimized for professional reporting and sharing.
 
 ---
 
@@ -36,11 +35,6 @@ The final dashboard is exported as a **single-page PDF**, optimized for professi
 
 ---
 
-## 📁 File Included
-- `Bike Sales Dashboard.pdf` – Final one-page dashboard ready for presentation
-
----
-
 ## 📈 Dashboard Components
 - Average Income per Purchase (by Gender & Purchase)
 - Customer Commute Distance Analysis
@@ -66,11 +60,3 @@ The final dashboard is exported as a **single-page PDF**, optimized for professi
 - Business Reporting & Presentations
 
 ---
-
-## 👤 Author
-**Fawad Khan**  
-Aspiring Data Analyst | Excel • Power BI • SQL • Data Visualization
-
----
-
-⭐ If you find this project insightful, feel free to explore my other data analysis dashboards.
