@@ -69,4 +69,3 @@ The insights are summarized and shared as a **PDF report exported from Power BI*
 
 ---
 
-## Repository Structure
