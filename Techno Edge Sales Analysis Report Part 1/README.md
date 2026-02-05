@@ -4,7 +4,6 @@
 This project presents a **sales performance analysis for Techno Edge** using an interactive **Power BI dashboard**.  
 The goal is to analyze sales trends, regional performance, customer segments, and product categories to support **data-driven business decisions**.
 
-The insights are summarized and shared as a **PDF report exported from Power BI**.
 
 ---
 
