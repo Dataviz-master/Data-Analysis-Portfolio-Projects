@@ -75,9 +75,3 @@ This dashboard helps stakeholders:
 - Detect underperforming categories
 - Support strategic sales planning
 
----
-
-
----
-
-⭐ If you found this project insightful, feel free to connect or provide feedback!
