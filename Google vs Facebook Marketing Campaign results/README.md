@@ -166,4 +166,3 @@ Based on the campaign data:
 
 ---
 
-*For questions or additional analysis, please contact the marketing analytics team.*
