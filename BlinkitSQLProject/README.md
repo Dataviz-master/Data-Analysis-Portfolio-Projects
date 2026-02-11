@@ -45,19 +45,6 @@
 
 ---
 
-## Screenshots Preview
-
-### Table Preview
-![Table Preview](screenshots/table_preview.png)
-
-### Total Sales
-![Total Sales](screenshots/total_sales.png)
-
-### Average Rating
-![Average Rating](screenshots/avg_rating.png)
-
-### Top 5 Products
-![Top Products](screenshots/top_products.png)
 
 ---
 
