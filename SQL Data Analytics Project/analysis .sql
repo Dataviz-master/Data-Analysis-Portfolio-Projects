@@ -145,8 +145,8 @@ case when current_sales - AVG(current_sales) over (partition by product_name) > 
 
 
  --Group customers into three segments based on their spending behavior:
-	-- VIP: Customers with at least 12 months of history and spending more than €5,000.
-	-- Regular: Customers with at least 12 months of history but spending €5,000 or less.
+	-- VIP: Customers with at least 12 months of history and spending more than â‚¬5,000.
+	-- Regular: Customers with at least 12 months of history but spending â‚¬5,000 or less.
 	-- New: Customers with a lifespan less than 12 months.
 --And find the total number of customers by each group
 
